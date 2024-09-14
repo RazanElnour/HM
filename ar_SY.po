@@ -1890,7 +1890,7 @@ msgstr "علم"
 #. module: hotel_management
 #: model:ir.model.fields,field_description:hotel_management.field_hotel_reservation__folio_id
 msgid "Folio"
-msgstr "فوليو"
+msgstr "السجل"
 
 #. module: hotel_management
 #: model:ir.model.fields,field_description:hotel_management.field_hotel_resv_id_details__folio_id
@@ -2051,7 +2051,7 @@ msgstr "Huésped"
 #: model_terms:ir.ui.view,arch_db:hotel_management.arrival_dept_guest
 #: model_terms:ir.ui.view,arch_db:hotel_management.roomwise_guestwise_report_view
 msgid "Guest Name"
-msgstr "Nombre del Huésped"
+msgstr "اسم النزيل"
 
 #. module: hotel_management
 #: model:ir.model.fields,field_description:hotel_management.field_hotel_management_config_settings__has_accounting_entries
